@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/theodorusandi/niaobot/issues"
   },
-  "homepage": "https://github.com/theodorusandi/niaobot#readme"
+  "homepage": "https://github.com/theodorusandi/niaobot#readme",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
 }
