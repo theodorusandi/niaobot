@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "watch": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,20 +16,5 @@
   "bugs": {
     "url": "https://github.com/theodorusandi/niaobot/issues"
   },
-  "homepage": "https://github.com/theodorusandi/niaobot#readme",
-  "devDependencies": {
-    "@types/node": "^18.7.14",
-    "@typescript-eslint/eslint-plugin": "^5.36.1",
-    "eslint": "^8.23.0",
-    "eslint-config-standard-with-typescript": "^22.0.0",
-    "eslint-plugin-import": "^2.26.0",
-    "eslint-plugin-n": "^15.2.5",
-    "eslint-plugin-promise": "^6.0.1",
-    "typescript": "^4.8.2"
-  },
-  "dependencies": {
-    "dotenv": "^16.0.1",
-    "got": "^11.8.5",
-    "oauth-1.0a": "^2.2.6"
-  }
+  "homepage": "https://github.com/theodorusandi/niaobot#readme"
 }
