@@ -1,0 +1,33 @@
+{
+  "name": "niaobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc --watch",
+    "watch": "nodemon -I ./build/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theodorusandi/niaobot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theodorusandi/niaobot/issues"
+  },
+  "homepage": "https://github.com/theodorusandi/niaobot#readme",
+  "devDependencies": {
+    "prettier": "2.7.1",
+    "typescript": "^4.8.2"
+  },
+  "dependencies": {
+    "airtable": "^0.11.4",
+    "dotenv": "^16.0.2",
+    "got": "^11.8.5",
+    "inquirer": "^8.2.4",
+    "oauth-1.0a": "^2.2.6"
+  }
+}
